@@ -1,0 +1,5 @@
+node_modules
+
+codemirror-pluto-setup
+packages/*
+!packages/.gitkeep
